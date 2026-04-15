@@ -25,6 +25,6 @@ Code Explanation:
 
 Working Logic:
 - When both sensors read LOW, the robot moves straight.
-- When the right sensor reads HIGH and the left sensor reads LOW, the robot turns right.
-- When the left sensor reads HIGH and the right sensor reads LOW, the robot turns left.
+- When the right sensor reads HIGH and the left sensor reads LOW, the robot turns left.
+- When the left sensor reads HIGH and the right sensor reads LOW, the robot turns right.
 - When both sensors read HIGH, the robot stops.
