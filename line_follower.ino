@@ -12,7 +12,7 @@ int enableLeftMotor = 5;
 int leftMotorPin1 = 9;
 int leftMotorPin2 = 10;
 
-void rotateMotor(int rightMotorSpeed, int leftMotorSpeed);
+void rotateMotor(int leftMotorSpeed, int rightMotorSpeed);
 
 void setup()
 {
